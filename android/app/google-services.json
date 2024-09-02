@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6662346253",
+    "project_id": "khuwaab-real-estate-pro",
+    "storage_bucket": "khuwaab-real-estate-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6662346253:android:9aed36c8d7cb82a953e744",
+        "android_client_info": {
+          "package_name": "com.example.kfyp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7qVvIHv3ieTKTuUbd3MeQ-Wp0FYmVdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
